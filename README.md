@@ -1,3 +1,7 @@
+<h1 align="center"> Widget Notifications </h1>
+
+<a align="center">![Widget Notifications (Community)](https://i.imgur.com/HnVfoC5.png)</a>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
